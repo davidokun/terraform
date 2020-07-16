@@ -1,0 +1,4 @@
+rootkey.csv
+.DS_Store
+project-1/terraform.tfstate
+.terraform/

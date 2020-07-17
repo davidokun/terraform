@@ -1,5 +1,7 @@
+.idea
 rootkey.csv
 .DS_Store
+project-1/project-1.tfvars
 project-1/terraform.tfstate
 project-1/terraform.tfstate.backup
 project-2/terraform.tfstate
